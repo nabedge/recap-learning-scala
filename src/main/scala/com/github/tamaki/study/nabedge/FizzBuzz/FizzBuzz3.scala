@@ -16,5 +16,9 @@ object FizzBuzz3 {
       }
     )
 
+    // 模範解＝withFilterを使う
+    // (1 to 100).withFilter(x => x % 2 !=0).foreach(...)...
+    
+
   }
 }
